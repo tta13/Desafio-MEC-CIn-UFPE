@@ -2,7 +2,7 @@ Para executar, digite no terminal linux: atividade1.cpp -o exec e depois ./exec,
 
 A entrada está formatada da seguinte maneira: primeiramente, um natural N representa o número de casos teste desejados, após isso, os N
 casos de teste seguirão da seguinte forma: um natural C representando a quantidade de intervalos e C pares de inteiros separados pela barra
-de espaço representando os intervalos em si. 
+de espaço representando o início e o fim de cada intervalo, respectivamente. 
 
 Exemplo de entrada: 
 3
